@@ -1,4 +1,7 @@
-# Curso-de-JavaScript-manipulando-elementos-en-el-DOM
+Curso de JavaScript: para Web: manipulando elmentos en el DOM
+Proyecto: Fokus
+En este curso se trabajó en la manipulación de todo el layout alterando elementos del HTML mediante el DOM.
+
 
 Anotaciones del curso:
 
