@@ -1,22 +1,44 @@
-Curso de JavaScript: para Web: manipulando elmentos en el DOM
-Proyecto: Fokus
-En este curso se trabajó en la manipulación de todo el layout alterando elementos del HTML mediante el DOM.
+# 📌 Fokus – Temporizador Pomodoro
 
+---
 
-Anotaciones del curso:
+## 📂 Acerca del repositorio
 
-elemento.addEventListener(evento, callback);
+Este proyecto fue desarrollado como parte del curso **JavaScript: manipulando elementos en el DOM** de **Alura LATAM**.  
+El objetivo principal fue construir una aplicación de temporizador al estilo Pomodoro, aplicando técnicas de manipulación del DOM con JavaScript puro.
 
-Donde:
-elemento: Es el elemento HTML al cual queremos asociar el evento.
-evento: Es un string que representa el tipo de evento que queremos capturar.
-callback: Es la función que se llamará cuando ocurra el evento.
+---
 
-Para crear un nuevo objeto 'Audio', simplemente podemos utilizar la siguiente sintaxis:
+## 🛠️ Tecnologías utilizadas
 
-const audioElement = new Audio('ruta/del/archivo-de-audio.mp3');
-Controles básicos de audio
-play(): inicia la reproducción del audio.
-pause: pausa la reproducción del audio.
-currentTime: propiedad que devuelve o establece la posición actual de reproducción del audio, en segundos.
-volume: propiedad que devuelve o establece el nivel de volumen del audio, variando de 0 a 1.
+- HTML  
+- CSS  
+- JavaScript
+
+---
+
+## ⚙️ Funcionalidades implementadas
+
+- Temporizador con modos de enfoque, descanso corto y descanso largo.  
+- Interacción dinámica mediante botones y eventos del usuario.  
+- Cambio de estilos, textos e imágenes según el modo seleccionado.  
+- Incorporación de sonidos para iniciar y pausar el temporizador.  
+- Gestión del estado de la aplicación utilizando `setInterval` y `clearInterval`.
+
+---
+
+## 🚀 Aprendizajes
+
+Durante el desarrollo, aprendí o reforcé conocimientos en:
+
+- Selección y manipulación de elementos del DOM.  
+- Manejo de eventos y funciones en JavaScript.  
+- Modificación dinámica de atributos y clases CSS.  
+- Control del tiempo y temporizadores en aplicaciones web.  
+- Mejores prácticas en la organización del código JavaScript.
+
+---
+
+## 🎯 Conclusión
+
+Este proyecto me permitió consolidar mis habilidades en la manipulación del DOM y en la creación de aplicaciones web interactivas utilizando JavaScript puro.
